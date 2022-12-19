@@ -1,2 +1,0 @@
-# AbstractArt
-Henlo Abstract Werl
